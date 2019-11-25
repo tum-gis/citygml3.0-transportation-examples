@@ -26,7 +26,7 @@ Another FME Workspace is used to generate CityGML2.0 Transportation data while m
 
 ![](images/citygml2_xml_xlinks.JPG)
 
-Link to view the data: https://github.com/ChBeil/citygml3.0-transportation-examples/blob/master/Simple%20Intersection/data/cityGML2_transportation_simpleIntersection_XLinks.gml
+Link to view the data: https://github.com/tum-gis/citygml3.0-transportation-examples/blob/master/Simple%20Intersection/data/cityGML2_transportation_simpleIntersection_XLinks.gml
 
 ## Transforming CityGML2.0 data to CityGML3.0 data
 
@@ -37,4 +37,4 @@ The following image shows the resulting .gml file. The proposed structure of the
 
 ![](images/citygml3_xml.JPG)
 
-Link to view the data:  https://github.com/ChBeil/citygml3.0-transportation-examples/blob/master/Simple%20Intersection/data/cityGML3_transportation_simpleIntersection.gml
+Link to view the data:  https://github.com/tum-gis/citygml3.0-transportation-examples/blob/master/Simple%20Intersection/data/cityGML3_transportation_simpleIntersection.gml
