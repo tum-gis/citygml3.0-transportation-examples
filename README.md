@@ -2,6 +2,9 @@
 This repository contains sample datasets for the CityGML3.0 Transportation Model. It is explained how the data was generated and examples are shown to illustrate new concepts. 
 The provided data is based on the Open Geospatial Consortium (OGC) CityGML Standards Working Group (SWG) CityGML version 3.0 Conceptual Model. https://github.com/opengeospatial/CityGML-3.0CM
 
+Follow this link for interactive visualizations of some of the presented data:
+https://wiki.tum.de/display/gisproject/Online+Demo+Collection
+
 # Content
 ## Simple Intersection
 Street space objects are manually derived form a digital orthophoto (DOP20) and exported as .shp files using the software ArcMap10.7. The data is then transformed into several CityGML datasets.
