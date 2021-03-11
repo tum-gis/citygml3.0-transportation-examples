@@ -22,7 +22,7 @@ First, the generated .shp objects are transformed into CityGML2.0 compliant data
 ![](images/panorama.png)
 ![](images/instanz%2B2vs3.png)
 
-Another FME Workspace is used to generate CityGML2.0 Transportation data while making use of XLinks (B). The resulting .citygml file is shown below. The CityGML2.0 Road object representing Section A1 (id_section_A1) consits of 3 TrafficAreas (id_way_A1, id_footpath1_A1 and id_footpath2_A1) and stores XLinks to each of these objects.
+Another FME Workspace is used to generate CityGML2.0 Transportation data while making use of XLinks (B). The resulting .citygml file is shown below. The CityGML2.0 Road object representing Section A1 (id_section_A1) consists of 3 TrafficAreas (id_way_A1, id_footpath1_A1 and id_footpath2_A1) and stores XLinks to each of these objects.
 
 ![](images/citygml2_xml_xlinks.JPG)
 
